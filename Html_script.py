@@ -10,8 +10,8 @@ import sys
 
 
 def retrieve_html():
-    # For year from 2013 to 2020
-    for year in range(2013,2021):
+    # For year from 2013 to 2018
+    for year in range(2013,2019):
         # For all the twelve months
         for month in range(1,13):
             if(month<10):
