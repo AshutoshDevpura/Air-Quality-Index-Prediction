@@ -16,4 +16,5 @@ In case the Jupyter Notebook doesn't load on Github, notebooks can be viewed usi
 
 
 ## Plot_AQI visualization:
-![Plot_AQI](https://user-images.githubusercontent.com/46817661/133156557-0cdc52f4-794b-45d4-8d63-52b2b211e38b.png)
+
+<img src="https://user-images.githubusercontent.com/46817661/133156557-0cdc52f4-794b-45d4-8d63-52b2b211e38b.png" width="500">
